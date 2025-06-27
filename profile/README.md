@@ -61,6 +61,8 @@ We welcome contributions from developers, designers, researchers, and Web3 enthu
 3. Submit a pull request
 4. Join the conversation in Issues or Discussions
 
+Donations are open via Solana transfer: 2AQLTnNDknGtCuN5N4yxfR8CdPDRk6QCXdfkNJQqV6Hz
+
 All contributions must adhere to the [Code of Conduct](./CODE_OF_CONDUCT.md) and follow the [Contribution Guidelines](./CONTRIBUTING.md).
 
 ---
@@ -75,6 +77,4 @@ For inquiries regarding partnerships or integrations, please contact the core te
 
 ---
 
-© CUDIS Wellness. All rights reserved.
-
--->
+© CUDIS Wellness. All rights reserved. 
