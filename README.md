@@ -77,4 +77,4 @@ For inquiries regarding partnerships or integrations, please contact the core te
 
 ---
 
-© CUDIS Wellness. All rights reserved.
+© CUDIS Wellness. All rights reserved. 
